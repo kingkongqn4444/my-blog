@@ -9,14 +9,14 @@ const config = {
   title: "Blog Cá nhân",
   tagline: "Blog",
   url: "https://kingkongqn4444.github.io",
-  baseUrl: "/",
+  baseUrl: "/my-blog/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "kingkongqn4444.github.io", // Usually your GitHub org/user name.
+  organizationName: "kingkongqn4444", // Usually your GitHub org/user name.
   projectName: "my-blog", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful

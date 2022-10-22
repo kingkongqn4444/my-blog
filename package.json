@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "deploy-app": "GIT_USER=kingkongqn4444 GIT_PASS=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 yarn deploy"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.1",

@@ -1,6 +1,6 @@
 ---
 slug: huong-dan-deploy-web-len-heroku
-title: Hướng dẫn deploy ứng dụng blog lên heroku
+title: Github page và deploy blog cá nhân
 authors: [Thinh Nguyen]
 tags: [facebook, hello, docusaurus]
 ---
